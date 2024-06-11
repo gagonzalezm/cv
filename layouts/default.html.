@@ -1,0 +1,44 @@
+---
+layout: default
+title: Gabriel Alonso González Medina - CV
+---
+
+<header class="masthead">
+    <div class="container">
+        <h1 class="masthead-title">Gabriel Alonso González Medina</h1>
+        <p class="masthead-subtitle">Curriculum Vitae</p>
+    </div>
+</header>
+
+<main class="container">
+    <section>
+        <h2>Educación</h2>
+        <ul>
+            <li>
+                <h3>Licenciatura en Psicología</h3>
+                <p>UNIVERSIDAD DE CHILE, Santiago de Chile</p>
+                <p>2010-2015</p>
+                <p>Psicología Clínica (un año de práctica)</p>
+            </li>
+            <li>
+                <h3>Maestría en Epidemiología</h3>
+                <p>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE, Santiago de Chile</p>
+                <p>2015-2016</p>
+                <p>Cursos: Análisis del diseño de la encuesta, Determinantes sociales de la salud</p>
+            </li>
+            <li>
+                <h3>Doctorado en Epidemiología</h3>
+                <p>PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE, Santiago de Chile</p>
+                <p>2021-actualidad</p>
+                <p>Cursos: Bioestadística avanzada y métodos epidemiológicos, Urbanismo, Teoría del curso de la vida</p>
+            </li>
+            <li>
+                <h3>Pasantía en Laboratorio de Inferencia Causal</h3>
+                <p>UNIVERSIDAD DE SAO PAULO, São Paulo, Brasil</p>
+                <p>Noviembre 2023 - Enero 2024</p>
+                <p>Escuela de Verano: Ciencia política experimental, Enero 2024</p>
+            </li>
+        </ul>
+    </section>
+    <!-- Agrega más secciones para Experiencia, Certificaciones, Habilidades, Investigación, Congresos y Seminarios si es necesario -->
+</main>
